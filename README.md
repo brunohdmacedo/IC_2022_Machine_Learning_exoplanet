@@ -1,4 +1,4 @@
-## DETECÇÃO AUTOMÁTICA DE EXOPLANETAS UTILIZANDO ALGORITMOS DE APRENDIZADO DE MÁQUINA
+## Detecção Automática De Exoplanetas Utilizando Algoritmos De Aprendizado De Máquina
 
 **Bruno Henrique Dourado Macedo(1)*, Joylan Nunes Maciel(2), Willian Zalewski(3)**
 
