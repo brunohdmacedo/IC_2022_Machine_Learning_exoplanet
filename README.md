@@ -56,3 +56,4 @@ Agradeço a UNILA por abrir as portas da universidade, ao professor Willian Zale
 neste trabalho, e aos professores da engenharia física e aos meus ex-colegas Patricia e Victor pela
 ajuda e a minha companheira Renata Benedet pelo apoio.
 
+Link para download do anais do SIEPE 2022: https://portal.unila.edu.br/eventos/siepe-2022/arquivos/2022_ANAIS_SIEPE_c.pdf
