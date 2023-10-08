@@ -50,6 +50,8 @@ A avaliação dos modelos induzidos foi realizada por meio da estratégia Cross-
 
 Fonte: Autoria própria.
 
+![Gráfico Local](https://github.com/brunohdmacedo/Machine_Learning_exoplanet/blob/main/Gr%C3%A1ficos.png?raw=true)
+
 ## 3. AGRADECIMENTOS
 
 Agradeço a UNILA por abrir as portas da universidade, ao professor Willian Zalewski pela orientação
